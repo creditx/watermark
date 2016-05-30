@@ -1,4 +1,4 @@
-from watermark.watermark import *
+from watermark import *
 
 __all__ = ['watermark']
 
